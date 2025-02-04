@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/x5nb0kvdxjc74g86?svg=true)](https://ci.appveyor.com/project/Engarahlion/patterns-2-3-2)
